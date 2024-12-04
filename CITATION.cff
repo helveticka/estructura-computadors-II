@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+authors:
+- family-names: "Giralt"
+  given-names: "Daniel"
+- family-names: "Joan"
+  given-names: "Harpo"
+title: "Pràctica final d'Estructura de Computadors II"
+date-released: "2024"
+url: "https://github.com/helveticka/estructura-computadors_II"
